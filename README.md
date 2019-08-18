@@ -2,4 +2,4 @@
 
 Githib for Microbiome Insights.
 
-See the Readings folder for three articles which will be discussed
+Thanks for visting this page but you really should be look at the [Wiki](https://github.com/steviep42/mi_emory_son/wiki) to get the low down on the Seminar. 
